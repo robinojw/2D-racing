@@ -1,0 +1,34 @@
+﻿  tokyo_racer.cpp
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(129): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(176): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(177): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(179): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(330): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(334): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(340): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(343): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(347): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(373): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(577): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(587): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(635): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(636): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(672): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(682): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(683): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(684): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(685): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(692): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(693): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(694): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(695): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(729): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(730): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(734): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(745): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(746): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(750): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(758): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\numbe\onedrive\desktop\super-hamster-master\openglwin32templatev2015\tokyo_racer.cpp(766): warning C4305: '-=': truncation from 'double' to 'float'
+  sample.vcxproj -> C:\Users\numbe\OneDrive\Desktop\super-hamster-master\OpenGLWin32templateV2015\Debug\sample.exe
